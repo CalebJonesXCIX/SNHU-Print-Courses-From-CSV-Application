@@ -1,0 +1,5 @@
+﻿  ABCU_CourseList_Displayer.cpp
+C:\Users\CJJones\source\repos\CS 300 7-1 Project 2\ABCU_CourseList_Displayer.cpp(116,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\CJJones\source\repos\CS 300 7-1 Project 2\ABCU_CourseList_Displayer.cpp(125,22): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\CJJones\source\repos\CS 300 7-1 Project 2\ABCU_CourseList_Displayer.cpp(161,23): warning C4018: '<': signed/unsigned mismatch
+  CS 300 7-1 Project 2.vcxproj -> C:\Users\CJJones\source\repos\CS 300 7-1 Project 2\Debug\CS 300 7-1 Project 2.exe
